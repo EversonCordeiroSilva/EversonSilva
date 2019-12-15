@@ -1,0 +1,25 @@
+#########
+# Python # 
+#########
+0. Ínicio:
+1. pid = pid.py
+2. pid.txt = pid
+3. i = 0
+4. para de i ate 3 faça
+5. se i < 2:
+	imprima('2: I am alive')
+     se não:
+	imprima('2: I gonna die now, bye')
+6. Esperar 3 segundos
+
+######
+# .bat #
+######
+0. Ínicio
+1. criar marcação 'loop'
+2. set pid = pid.txt
+3. se pid in tasklist faça:
+	imprima('1: It is alive!')
+    se não:
+	imprima('1: It is dead')
+4. chamar 'loop'
