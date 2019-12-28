@@ -8,12 +8,11 @@ Execute o CannonLord.exe
 
 Android
 --------------------------------------
-Download do arquivo .rar /
-Extraia /
-Execute o CannonLord_v1.0.apk /
-Instale - o/
+Download do apk/
+Execute o CannonLord_v1.0.apk
 Pronto!
 
 Web
 ---------------------------------------
 https://eversoncordeirosilva.github.io/CannonMasterWeb_v1/
+
