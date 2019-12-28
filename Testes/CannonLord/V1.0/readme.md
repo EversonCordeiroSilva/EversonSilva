@@ -2,7 +2,7 @@ Como jogar o CannonLord
 --------------------------------------
 windows
 --------------------------------------
-Download do arquivo .rar /
+Download do Windows.rar /
 Extraia /
 Execute o CannonLord.exe
 
